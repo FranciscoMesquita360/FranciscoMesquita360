@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FranciscoMesquita360
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning godot
+- 🌱 I’m currently developing in godot
 
 <!---
 FranciscoMesquita360/FranciscoMesquita360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
