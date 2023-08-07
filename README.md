@@ -1,7 +1,7 @@
 ### Ola, Eu Sou o Francisco Mesquita 👋 
 
 [![Portfolio](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://itch.io/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-mesquita-895482120/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-m-895482120/)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoMesquita360&show_icons=true&theme=dracula)
